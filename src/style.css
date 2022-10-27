@@ -1,0 +1,38 @@
+* {
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+}
+.about {
+    display: flex;
+}
+
+li {
+    margin-bottom: 15px;
+}
+
+.box {
+
+    padding: 40px 20px;
+    width: 100%;
+    height: 1500px;
+    display: inline-block;
+    display: flex;
+    padding: 0;
+}
+
+.box2 {
+    width: 50%;
+    padding: 40px 20px;
+    height: 1500px;
+    background-color: rgb(202, 202, 238);
+    display: inline-block;
+}
+.box3{
+    width: 50%;
+    color: aliceblue;
+    padding: 20px 30px 20px 70px;
+    background-color: rgb(46, 46, 161);
+}
